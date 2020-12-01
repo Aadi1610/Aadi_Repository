@@ -1,3 +1,3 @@
-## Here, is the list of all of my projects
+## Here, is the list of my EDA projects
 
 - [Facebook](https://github.com/Aadi1610/Aadi_Repository/tree/main/Facebook-Project "Facebook")
